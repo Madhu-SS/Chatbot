@@ -1,0 +1,11 @@
+unstructured
+libmagic
+streamlit
+pypdf
+langchain
+ctransformers
+sentence_transformers
+faiss_cpu
+huggingface_hub
+
+-e .
